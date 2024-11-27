@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import {Card} from "../types";
-
 const props = defineProps<{
   card: Card
   index: number
